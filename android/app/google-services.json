@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097978332999",
+    "project_id": "blankproject-9828f",
+    "storage_bucket": "blankproject-9828f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097978332999:android:5b4ad9534eac44b314ae62",
+        "android_client_info": {
+          "package_name": "com.blankproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097978332999-nj6ios7rkl57d5apqnfpsjpu8saerui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_F_WI6PJFVQW5E1996rmP-eslUh2K708"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097978332999-nj6ios7rkl57d5apqnfpsjpu8saerui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
